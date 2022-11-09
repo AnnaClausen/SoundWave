@@ -1,5 +1,5 @@
 const clientId = 'ae3972fc8724400e8cfab70c3cba83df'
-const redirectUri = 'http://musicale.surge.sh'
+const redirectUri = 'http://localhost:3000/'
 
 let accessToken;
 
