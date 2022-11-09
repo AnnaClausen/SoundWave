@@ -1,4 +1,4 @@
-const clientId = ''
+const clientId = 'ae3972fc8724400e8cfab70c3cba83df'
 const redirectUri = 'https://my-music-playlist-builder.netlify.app/'
 
 let accessToken;
