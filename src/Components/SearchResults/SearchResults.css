@@ -1,10 +1,10 @@
 .SearchResults {
-    width: 50%;
+    width: 52%;
     height: 950px;
     overflow-y: scroll;
     padding: .88rem;
-    background-color: #010C27 70%;
-    box-shadow: 0 4px 2px 2px #000000;
+    background-color: #010C27;
+    border: 1px solid #d9d9d9
   }
   
   ::-webkit-scrollbar {
