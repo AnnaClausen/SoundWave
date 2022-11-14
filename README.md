@@ -40,7 +40,10 @@ https://user-images.githubusercontent.com/102702166/201738353-a6af545b-fa20-4a87
 - Create an application in your Spotify developer account at https://developer.spotify.com/dashboard/login
 
 - Add your application url (localhost:3000 for example) to your application Redirect URIs.
-Change your .env file REACT_APP_API_KEY to your application Client ID and REACT_APP_REDIRECT_URL to your application url.
+
+- Copy your Client ID and Redirect URI and replace them in the Spotify.js file in your project directory.
+
+### Run application
 
 - In the project directory, you can run:
 
