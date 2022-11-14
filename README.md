@@ -1,17 +1,9 @@
 # SoundWave Project
 
-<!-- The script tag should live in the head of your page if at all possible -->
-<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
 
-<!-- Put this wherever you would like your player to appear -->
-<img
-  style="width: 100%; margin: auto; display: block;"
-  class="vidyard-player-embed"
-  src="https://play.vidyard.com/o5PxHr7i1pKJyirr1ihrat.jpg"
-  data-uuid="o5PxHr7i1pKJyirr1ihrat"
-  data-v="4"
-  data-type="inline"
-/>
+https://user-images.githubusercontent.com/102702166/201738353-a6af545b-fa20-4a87-80cc-39b37b04883f.mp4
+
+
 
 ## Table of Contents
 
