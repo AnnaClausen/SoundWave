@@ -1,6 +1,8 @@
 # SoundWave Project
 
 
+Watch a project demonstration below:
+
 https://user-images.githubusercontent.com/102702166/201738353-a6af545b-fa20-4a87-80cc-39b37b04883f.mp4
 
 
