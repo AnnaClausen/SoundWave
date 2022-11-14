@@ -1,5 +1,14 @@
 # SoundWave Project
 
+<img
+  style="width: 100%; margin: auto; display: block;"
+  class="vidyard-player-embed"
+  src="https://play.vidyard.com/o5PxHr7i1pKJyirr1ihrat.jpg"
+  data-uuid="o5PxHr7i1pKJyirr1ihrat"
+  data-v="4"
+  data-type="inline"
+/>
+
 ## Table of Contents
 
 - Project Goals
@@ -7,7 +16,7 @@
 - How to use
 - Challenges and Lessons Learned
 
-### Project Goals
+## Project Goals
 
 - Create a React web application that uses your knowledge of componsents, state and requests along with the Spotify API to build a website that allows users to authenticate with their spotify account,search their spotify library, create a custom playlist, then save it to their Spotify account.
 
@@ -20,15 +29,15 @@
     - **Change Playlist Title** — users can change the title of their custom playlist.
     - **Save Playlist to Account** — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
 
-    ## Built with
+## Built with
 
-    - React 
-    - Git, Github
-    - Spotify API
+- React 
+- Git, Github
+- Spotify API
 
-    ## How to Use
+## How to Use
 
-    I. Application setup
+### Application setup
 
 - Create an application in your Spotify developer account at https://developer.spotify.com/dashboard/login
 
@@ -37,29 +46,30 @@ Change your .env file REACT_APP_API_KEY to your application Client ID and REACT_
 
 - In the project directory, you can run:
 
-**npm start**
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
+### npm start
+- Runs the app in the development mode.
+- Open http://localhost:3000 to view it in your browser.
+- The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-**npm test**
-Launches the test runner in the interactive watch mode.
+### npm test
+- Launches the test runner in the interactive watch mode.
 
-See the section about running tests for more information.
+- See the section about running tests for more information.
 
-**npm run build**
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### npm run build
+- Builds the app for production to the build folder.
+- It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.
+- The build is minified and the filenames include the hashes.
 
-Your app is ready to be deployed!
+- Your app is ready to be deployed!
 
-See the section about **deployment** for more information here https://facebook.github.io/create-react-app/docs/deployment
+### Deployment
 
-**npm run eject**
+- See the section about **deployment** for more information here https://facebook.github.io/create-react-app/docs/deployment
+
+### npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
